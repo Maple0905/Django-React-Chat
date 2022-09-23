@@ -1,4 +1,4 @@
-# django-chat
+# django-react-chat
 A chatting app made with django-rest-framework, django-signal &amp; react.js
 
 # Installation Process
